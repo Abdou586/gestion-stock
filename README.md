@@ -12,7 +12,5 @@ Avant de commencer, assurez-vous d'avoir installé [XAMPP](https://www.apachefri
 ## Capture
 
 <div align="center">
-  <video width="400" controls>
-    <source src="./public/images/vdo.mp4" type="video/mp4">
-  </video>
+  <img src="./public/images/img.png" alt="">
 </div>
