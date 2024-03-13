@@ -1,6 +1,6 @@
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir installé [XAMPP](https://www.apachefriends.org/download.html) sur votre système. XAMPP est une distribution Apache gratuite et facile à installer contenant MariaDB, PHP et Perl. Téléchargez et installez la version correspondant à votre système d'exploitation.
+Avant de commencer, assurez-vous d'avoir installé [XAMPP](https://www.apachefriends.org/download.html) sur votre système. XAMPP est une distribution Apache gratuite et facile à installer contenant MariaDB (un fork de MySQL), PHP et Perl. Téléchargez et installez la version correspondant à votre système d'exploitation.
 
 ## Installation
 
