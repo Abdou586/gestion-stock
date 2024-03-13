@@ -8,9 +8,3 @@ Avant de commencer, assurez-vous d'avoir installé [XAMPP](https://www.apachefri
 2. Lancez XAMPP et démarrez les services Apache et MySQL.
 3. Accédez à phpMyAdmin en visitant `http://localhost/phpmyadmin` dans votre navigateur.
 4. Importez la base de données fournie avec le projet dans phpMyAdmin.
-
-## Capture
-
-<div align="center">
-  <img src="./public/images/img.png" alt="">
-</div>
